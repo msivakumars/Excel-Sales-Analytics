@@ -21,13 +21,13 @@
 
 - **Project objective:** 
 
-    **1.** Generate a report to comparison between _[market performance and sales targets](https://github.com/msivakumars/Excel-Sales-Analytics/blob/master/market%20performance%20vs%20target%20report.pdf)_
+    **1.** Generate a report to compare between _[market performance and sales targets](https://github.com/msivakumars/Excel-Sales-Analytics/blob/master/market%20performance%20vs%20target%20report.pdf)_
 
     **2.** Generate a _[customer performance report](https://github.com/msivakumars/Excel-Sales-Analytics/blob/master/customer%20performance%20report.pdf)_ 
 
     **3.** Generate a report to identify _[top 10 products by net sales](https://github.com/msivakumars/Excel-Sales-Analytics/blob/master/top%2010%20products.pdf)_ 
 
-    **4.** Generate a report to identify _[top and bottome 5 products by sold quantity](https://github.com/msivakumars/Excel-Sales-Analytics/blob/master/top%20and%20bottom%20products%20by%20quantity.pdf)_ 
+    **4.** Generate a report to identify _[top 5 products and bottome 5 products by sold quantity](https://github.com/msivakumars/Excel-Sales-Analytics/blob/master/top%20and%20bottom%20products%20by%20quantity.pdf)_ 
 
 - **The aim of sales analytics:** Enable businesses to closely monitor and assess their sales activities and overall performance.
 
